@@ -1,6 +1,7 @@
 ---
 title: 4 Ways to Turn Your Perspective Into Power
 description: This is the description
+siteURL: 
 date: "2016-10-30T22:12:03.284Z"
 ---
 

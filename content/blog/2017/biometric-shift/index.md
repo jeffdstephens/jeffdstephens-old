@@ -1,6 +1,7 @@
 ---
 title: The Biometric Shift Sparking a New Way of Life
 description: This is the description
+siteURL: 
 date: "2017-04-24T22:12:03.284Z"
 ---
 

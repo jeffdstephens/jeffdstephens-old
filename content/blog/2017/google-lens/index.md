@@ -1,6 +1,7 @@
 ---
 title: Google's Recent Announcement Moves a Step Closer to You Being One With the Machine
 description: This is the description
+siteURL: 
 date: "2017-05-18T22:12:03.284Z"
 ---
 

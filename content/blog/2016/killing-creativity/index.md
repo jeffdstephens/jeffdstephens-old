@@ -1,6 +1,7 @@
 ---
 title: 4 Daily Mistakes Killing Your Creativity
 description: This is the description
+siteURL: 
 date: "2016-11-21T22:12:03.284Z"
 ---
 
