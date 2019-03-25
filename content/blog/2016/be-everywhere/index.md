@@ -1,5 +1,6 @@
 ---
 title: 3 Ways the Be-Everywhere Strategy Leads You Nowhere
+description: This is the description
 date: "2016-06-16T22:12:03.284Z"
 ---
 

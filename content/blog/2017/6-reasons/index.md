@@ -1,5 +1,6 @@
 ---
 title: 6 Reasons Why Contactless Biometrics Are Everything That's Right With Biometrics Today
+description: This is the description
 date: "2017-07-19T22:12:03.284Z"
 ---
 

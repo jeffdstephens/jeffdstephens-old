@@ -1,5 +1,6 @@
 ---
 title: 6 Ways to Hack Your Learning Process for Sustainable Personal Growth
+description: This is the description
 date: "2017-06-06T22:12:03.284Z"
 ---
 

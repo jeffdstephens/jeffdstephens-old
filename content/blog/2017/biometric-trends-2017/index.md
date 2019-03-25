@@ -1,5 +1,6 @@
 ---
 title: 6 Biometric Trends from ConnectID 2017
+description: This is the description
 date: "2017-05-05T22:12:03.284Z"
 ---
 

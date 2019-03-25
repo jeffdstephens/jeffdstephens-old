@@ -1,5 +1,6 @@
 ---
 title: 4 Limiting Beliefs Sabotaging Your Business Growth
+description: This is the description
 date: "2017-03-20T22:12:03.284Z"
 ---
 

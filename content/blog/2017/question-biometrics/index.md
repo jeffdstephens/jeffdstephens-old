@@ -1,5 +1,6 @@
 ---
 title: This Biometric Implementation Will Have You Questioning Your Future
+description: This is the description
 date: "2017-06-29T22:12:03.284Z"
 ---
 
