@@ -7,9 +7,8 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
-    subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    title: 'Blog by Jeff D. Stephens',
+    subtitle: 'The art of architecture',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -27,13 +26,10 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      name: 'Jeff D. Stephens',
+      email: 'jeffdstephens@gmail.com',
+      twitter: 'jeffdstephens',
+      github: 'jeffdstephens',
     },
   },
   plugins: [
