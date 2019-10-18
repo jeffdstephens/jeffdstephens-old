@@ -46,6 +46,7 @@ export const pageQuery = graphql`
           telegram
           twitter
           github
+          linkedin
           rss
           vk
         }

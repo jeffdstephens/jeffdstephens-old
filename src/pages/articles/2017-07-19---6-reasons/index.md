@@ -17,7 +17,7 @@ description: Discover 6 reasons why contactless biometrics are all the rage in t
 
 Each morning I wake up and slowly stumble downstairs to let my dog out. On the way I typically call out to Alexa and tell her to turn on the news. After a few seconds, my TV powers up and automatically turns to the preprogrammed channel.
 
-A couple of thoughts pass through my head each time I do this. First, I think about how lazy I must be that I don’t want to take the effort to simply walk over to the table and use the remote control. But, I also think about how wonderful, and effective, it is for me to be able to complete this task while performing a completely separate and unrelated task.
+A couple of thoughts pass through my head each time I do this. First, I think about how lazy I must be that I don’t want to take the effort to simply walk over to the table and use the remote control. But,git I also think about how wonderful, and effective, it is for me to be able to complete this task while performing a completely separate and unrelated task.
 
 In a way, this is the beauty of contactless biometrics. A task can be successfully completed without physical user engagement.
 
