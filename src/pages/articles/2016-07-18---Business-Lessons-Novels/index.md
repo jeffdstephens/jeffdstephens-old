@@ -6,11 +6,9 @@ draft: false
 path: '/posts/business-lessons-novels/'
 category: 'entrepreneurship'
 tags:
-  - 'Linotype'
-  - 'Monotype'
-  - 'History of typography'
-  - 'Helvetica'
-description: 'See what you can learn from great novels when it comes to entrepreneurship.'
+  - 'strategy'
+  - 'productivity'
+description: Those classic novels you didn't read in high school actually have a few important lessons to teach you.
 ---
 
 ![business-lesson-novels](./classic-novels.jpeg)

@@ -1,11 +1,20 @@
 ---
-title: This Biometric Implementation Will Have You Questioning Your Future
-description: This is the description
-siteURL: 
-date: "2017-06-29T22:12:03.284Z"
+title: 'This Biometric Implementation Will Have You Questioning Your Future'
+date: '2017-06-29T22:12:03.284Z'
+layout: post
+draft: false
+path: '/posts/question-biometrics/'
+category: 'biometrics'
+tags:
+  - 'biometrics'
+  - 'drones'
+  - 'autonomous vehicles'
+description: 'Sometimes you come across a biometric implementation that makes you think on a deeper level. This is one of them. '
 ---
 
 ![question-Biometrics](./question-biometrics.jpeg)
+
+`this article first appeared on` <a href="http://www.dignari.com/blog/dubai-biometric-car" target="_blank">dignari.com</a>
 
 I typically spend some time scanning various websites and online resources for the latest implementations of emerging technology and the innovative ways in which it is used. The other day I came across a story that caught my attention. It was one of those articles that really makes you say, “hmmm”.
 

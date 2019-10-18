@@ -6,11 +6,9 @@ draft: false
 path: '/posts/perspective-power/'
 category: 'entrepreneurship'
 tags:
-  - 'Linotype'
-  - 'Monotype'
-  - 'History of typography'
-  - 'Helvetica'
-description: 'How your perspective can shape your power.'
+  - 'strategy'
+  - 'entrepreneur'
+description: How you approach situations makes a difference in the outcome.
 ---
 
 ![perspective-power](./perspective-power.jpeg)

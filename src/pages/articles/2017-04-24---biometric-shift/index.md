@@ -1,11 +1,19 @@
 ---
-title: The Biometric Shift Sparking a New Way of Life
-description: This is the description
-siteURL: 
-date: "2017-04-24T22:12:03.284Z"
+title: 'The Biometric Shift Sparking a New Way of Life'
+date: '2017-04-24T22:12:03.284Z'
+layout: post
+draft: false
+path: '/posts/biometric-shift/'
+category: 'biometrics'
+tags:
+  - 'biometrics'
+description: Security has traditionally been the driving influence for biometric technology and system implementation. Last week, Google introduced functionality that further reinforces the notion that a shift has occurred and biometrics will play an even bigger role in our daily life moving forward.
 ---
 
 ![biometric-trends](./biometric-shift.jpeg)
+
+`this article first appeared on` <a href="http://www.dignari.com/blog/biometric-shift" target="_blank">dignari.com</a>
+
 If you’ve been following biometrics over the years you have seen the industry grow by leaps and bounds. Technological advances and platform changes have been driving forward to meet the rigorous demands of operational environments.
 
 But there has recently been a shift in use that has morphed the industry from a niche technology to something much more mainstream. In fact, Google introduced a new capability last week that further proves we are moving into a new age of biometric prevalence.

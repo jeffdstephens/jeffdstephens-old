@@ -6,11 +6,10 @@ draft: false
 path: '/posts/killing-creativity/'
 category: 'entrepreneurship'
 tags:
-  - 'Linotype'
-  - 'Monotype'
-  - 'History of typography'
-  - 'Helvetica'
-description: 'Are you killing your creativity?'
+  - 'strategy'
+  - 'creativity'
+  - 'entrepreneur'
+description: Generating the quality content needed to be heard above the roar requires getting it right, every day.
 ---
 
 ![killing-creativity](./killing-creativity.jpeg)

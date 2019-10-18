@@ -6,16 +6,16 @@ draft: false
 path: '/posts/biometric-failing/'
 category: 'biometrics'
 tags:
-  - 'Linotype'
-  - 'Monotype'
-  - 'History of typography'
-  - 'Helvetica'
-description: 'See what key aspect is holding biometric systems back.'
+  - 'Biometrics'
+  - 'Design'
+  - 'Hardware'
+  - 'UI/UX'
+description: While biometric technology continues to advance, there is one fundamental flaw with too many of the products hitting the street.
 ---
 
 ![biometric-failing](./biometric-failing.jpeg)
 
-`this article first appeared on Dignari.com`
+`this article first appeared on` <a href="http://www.dignari.com/blog/biometric-systems-failing" target="_blank">dignari.com</a>
 
 Biometric technology continues to advance at a rapid pace. Each year brings smaller sensors, more advanced algorithms, and new and innovative methods of capture. However, there remains a fundamental problem with too many of the biometric solutions offered by the vendor community today.
 

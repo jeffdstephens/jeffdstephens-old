@@ -4,13 +4,12 @@ date: '2016-07-15T22:12:03.284Z'
 layout: post
 draft: false
 path: '/posts/information_overload/'
-category: 'entrepreneurship'
+category: 'Entrepreneurship'
 tags:
-  - 'Linotype'
-  - 'Monotype'
-  - 'History of typography'
-  - 'Helvetica'
-description: 'Entrepreneurs are innundated with information throughout the day. See how you can manage the chaos.'
+  - 'Entrepreneur'
+  - 'Strategy'
+  - 'Productivity'
+description: Information may be power but it can also be overwhelming. Here are five tips to help budding business owners to stay focused.
 ---
 
 ![information-overload](./information-overload.jpeg)

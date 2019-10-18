@@ -7,7 +7,7 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by Jeff D. Stephens',
+    title: 'Jeff D. Stephens',
     subtitle: 'The art of architecture',
     copyright: '© All rights reserved.',
     disqusShortname: '',
@@ -26,10 +26,13 @@ module.exports = {
       },
     ],
     author: {
-      name: 'Jeff D. Stephens',
+      name: 'Jeff D Stephens',
       email: 'jeffdstephens@gmail.com',
+      telegram: '#',
       twitter: 'jeffdstephens',
       github: 'jeffdstephens',
+      rss: '#',
+      vk: '#',
     },
   },
   plugins: [

@@ -1,11 +1,20 @@
 ---
 title: Google's Recent Announcement Moves a Step Closer to You Being One With the Machine
-description: This is the description
-siteURL: 
-date: "2017-05-18T22:12:03.284Z"
+date: '2017-05-18T22:12:03.284Z'
+layout: post
+draft: false
+path: '/posts/google-lens/'
+category: 'computer vision'
+tags:
+  - 'AI'
+  - 'Google'
+  - 'computer vision'
+description: 'Google Lens was just announced at the 2017 I/O developer conference. Discover what this means to your future relationship with the physical world. '
 ---
 
 ![google-lens](./google-lens.jpeg)
+
+`this article first appeared on` <a href="http://www.dignari.com/blog/google-lens" target="_blank">dignari.com</a>
 
 Google introduced a new app called Google Lens at its I/O developer conference yesterday that may be the next step toward living in augmented reality.
 

@@ -1,11 +1,19 @@
 ---
-title: 6 Biometric Trends from ConnectID 2017
-description: This is the description
-siteURL: 
-date: "2017-05-05T22:12:03.284Z"
+title: '6 Biometric Trends from ConnectID 2017'
+date: '2017-05-05T22:12:03.284Z'
+layout: post
+draft: false
+path: '/posts/biometric-trends-connectid/'
+category: 'biometrics'
+tags:
+  - 'biometrics'
+  - 'conferences'
+description: The ConnectID 2017 conference just concluded in Washington, D.C. Here are 6 biometric takeaways from the conference that will give you a glimpse at where the industry is headed.
 ---
 
 ![biometric-trends](./biometric-trends-connectid.jpeg)
+
+`this article first appeared on` <a href="http://www.dignari.com/blog/6-biometric-trends-connectid" target="_blank">dignari.com</a>
 
 Biometric technology is sort of like the NBA Slam Dunk contest. Just when you think all measures of creativity and innovation have been exhausted, they surprise you again.
 

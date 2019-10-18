@@ -4,13 +4,11 @@ date: '2016-06-16T22:12:03.284Z'
 layout: post
 draft: false
 path: '/posts/be-everywhere/'
-category: 'Design Inspiration'
+category: 'Entrepreneurship'
 tags:
-  - 'Linotype'
-  - 'Monotype'
-  - 'History of typography'
-  - 'Helvetica'
-description: 'Discover how the quest to be everywhere can actually sabotage your online journey'
+  - 'Entrepreneur'
+  - 'Strategy'
+description: Don't get caught up in trying to be on every digital platform, taking a more focused approach can reap greater dividends.
 ---
 
 ![be-everywhere](./be-everywhere.jpeg)

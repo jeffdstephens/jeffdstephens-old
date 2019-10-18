@@ -1,8 +1,15 @@
 ---
-title: 6 Ways to Hack Your Learning Process for Sustainable Personal Growth
-description: This is the description
-siteURL: 
-date: "2017-06-06T22:12:03.284Z"
+title: '6 Ways to Hack Your Learning Process for Sustainable Personal Growth'
+date: '2017-06-06T22:12:03.284Z'
+layout: post
+draft: false
+path: '/posts/hack-learning/'
+category: 'entrepreneurship'
+tags:
+  - 'entrepreneur'
+  - 'strategy'
+  - 'learning'
+description: Change is rapid in the world today. Continuous learning is how you change with it.
 ---
 
 ![hack-learning](./20170605143023-GettyImages-498565083.jpeg)

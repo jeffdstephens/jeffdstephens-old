@@ -1,8 +1,14 @@
 ---
-title: 4 Limiting Beliefs Sabotaging Your Business Growth
-description: This is the description
-siteURL: 
-date: "2017-03-20T22:12:03.284Z"
+title: '4 Limiting Beliefs Sabotaging Your Business Growth'
+date: '2017-03-20T22:12:03.284Z'
+layout: post
+draft: false
+path: '/posts/limiting-beliefs/'
+category: 'entrepreneurship'
+tags:
+  - 'strategy'
+  - 'entrepreneur'
+description: Be careful who you compare yourself to.
 ---
 
 ![limiting-beliefs](./limiting-beliefs.jpeg)

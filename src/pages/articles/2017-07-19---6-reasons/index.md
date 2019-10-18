@@ -1,19 +1,19 @@
 ---
-title: '6 Reasons Why Contactless Biometrics Are Everything That's Right With Biometrics Today'
+title: '6 Reasons Why Contactless Biometrics Are Everything That is Right with Biometrics Today'
 date: '2017-07-19T22:12:03.284Z'
 layout: post
 draft: false
 path: '/posts/6-reasons/'
-category: 'entrepreneurship'
+category: 'biometrics'
 tags:
-  - 'Linotype'
-  - 'Monotype'
-  - 'History of typography'
-  - 'Helvetica'
-description: 'Learn about contactless biometrics.'
+  - 'biometrics'
+  - 'contactless'
+description: Discover 6 reasons why contactless biometrics are all the rage in today's biometrics market.
 ---
 
 ![Contactless-Biometrics](./contactless-biometrics.jpeg)
+
+`this article first appeared on` <a href="http://www.dignari.com/blog/contactless-biometrics" target="_blank">dignari.com</a>
 
 Each morning I wake up and slowly stumble downstairs to let my dog out. On the way I typically call out to Alexa and tell her to turn on the news. After a few seconds, my TV powers up and automatically turns to the preprogrammed channel.
 
