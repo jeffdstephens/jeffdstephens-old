@@ -7,9 +7,8 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
-    subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    title: 'Jeff D. Stephens',
+    subtitle: 'The art of architecture',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -27,11 +26,12 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
+      name: 'Jeff D Stephens',
+      email: 'jeffdstephens@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'jeffdstephens',
+      github: 'jeffdstephens',
+      linkedin: 'jeffdstephens',
       rss: '#',
       vk: '#',
     },
@@ -124,7 +124,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' },
+      options: { trackingId: 'UA-37889170-9' },
     },
     {
       resolve: 'gatsby-plugin-google-fonts',
