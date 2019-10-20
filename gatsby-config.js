@@ -8,7 +8,7 @@ module.exports = {
     url,
     siteUrl: url,
     title: 'Jeff D. Stephens',
-    subtitle: 'The art of architecture',
+    subtitle: 'My Tech Life',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
