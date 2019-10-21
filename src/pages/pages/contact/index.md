@@ -4,7 +4,11 @@ layout: page
 path: '/contact'
 ---
 
-This page is under construction. Check back later please!
+![work with jeff d stephens](./work_with_jeff.jpg)
+
+### Let's Get to Work!
+
+I'm always interested in learning more from others and making genuine connections. I feel the best way to expand your skillset is to explore opportunities and constantly challenge yourself to take it to the next level. If you'd like to connect or potentially work together, feel free to send me a note!
 
 <form 
     name="contact"
@@ -14,14 +18,23 @@ This page is under construction. Check back later please!
     action="/success/"
 >
     <input type="hidden" name="bot-field" />
-    <div>
-        <input type="text" name="name" placeholder="Name" required />
-        <input type="email" name="email" placeholder="Email" required />
-        <input type="text" name="subject" placeholder="Subject" required />
-        <textarea name="message" required></textarea>
+    <div >
+        <input type="text" name="name" placeholder="Name" required style="width:100%" />
     </div>
     <div>
-        <button type="submit">Send</button>
-        <button type="reset">Clear</button>
+        <input type="email" name="email" placeholder="Email Address" required style="width:100%" /> 
+    </div>
+    <div>
+        <input type="text" name="subject" placeholder="Subject" required style="width:100%"/>
+    </div>
+        <textarea name="message" required style="width:100%" ></textarea>
+    </div>
+    <div>
+    <div>
+        <button type="submit" style="width:50%">Send</button>
+      </div>
+      <div>
+        <button type="reset" style="width:50%">Clear</button>
+        </div>
     </div>
 </form>
