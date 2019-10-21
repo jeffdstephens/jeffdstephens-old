@@ -6,11 +6,15 @@ path: '/about'
 
 ![about jeff d stephens](./about_jeffdstephens.JPG)
 
+### In the beginning...
+
 In 1991 I was attending George Mason University just outside of
 Washington, DC. I was ending my semester as an Accounting major and
 hated every Accounting class I was in. As I selected my courses for
 the upcoming semester I decided to take a computer programming class.
 That was the beginning of my love for technology.
+
+### A spark...
 
 My first course was programming in BASIC. Those first programs were
 nothing to get excited about but when the program finally worked and
@@ -19,6 +23,8 @@ switched my major to Management Information Systems (MIS) and dove
 into programming and everything to do with computers. I cut my teeth
 on a bit of COBOL, then some Pascal, and ultimately C before jumping
 headfirst into C++ - it was the hot language emerging at that time.
+
+### Living the life...
 
 I graduated school and was hired into the illustrious Systems Engineer
 Development (SED) program at Electronic Data Systems (EDS). As part of
@@ -37,6 +43,8 @@ you were fired. No joke. I was able to get through training and was
 offered the sought after position as a Teaching Assistant for the next
 class. I refused though because I wanted to get to coding in
 production!
+
+### Amazing opportunities...
 
 Over the next 14 years at EDS I was able to create amazing systems
 using an incredible array of technologies, including multi-modal
@@ -58,6 +66,8 @@ to field a number of nationwide production systems. Most were related
 to pedestrian processing using face biometrics and other cool
 technologies.
 
+### The saga continues...
+
 Fast forward to today and I'm currently serving as the Chief
 Technology Officer (CTO) for a woman-owned small business in the
 Washington, D.C. area - Dignari. In my current role I serve as the
@@ -68,6 +78,8 @@ some blockchain. Recently, I've rediscovered my love for coding and
 I'm soaking up all kinds of technologies. I'm mostly focused on React
 right now but looking forward to continuing to refresh and expand my
 full stack skills.
+
+### Welcome. Let's do big things...
 
 So, welcome to my website. If you are here you are probably a lot like
 me and your love for technology is strong. One of the reasons I chose
