@@ -1,6 +1,6 @@
 ---
 title: "4 mistakes you don't know you're making as a tech lead"
-date: '2021-01-19T11:34:03.284Z'
+date: '2021-01-19T08:34:03.284Z'
 layout: post
 draft: false
 path: '/posts/4-mistakes-tech-lead'
